@@ -1,0 +1,738 @@
+proxies:
+  - {name: 🇭🇰 D00 香港宽频1, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39275, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇭🇰 D00 香港宽频2, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39091, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇭🇰 D00 香港宽频3, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39493, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇭🇰 D01 香港边缘1, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39518, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇭🇰 D01 香港边缘2, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39318, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇭🇰 D01 香港边缘3, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39155, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇭🇰 D01 香港边缘4, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39415, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇨🇳 D10 台湾, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39403, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇨🇳 D11 台湾, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39401, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇨🇳 D12 台湾, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39402, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇨🇳 D13 台湾, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39400, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇨🇳 D14 台湾, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39404, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇨🇳 D15 台湾, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39406, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇯🇵 D20 日本边缘1, server: shark.douyucdn.cn.o468e691.ksyungslb.com.douyinvod.click, port: 39230, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇯🇵 D20 日本边缘2, server: shark.douyucdn.cn.o468e691.ksyungslb.com.douyinvod.click, port: 39424, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇯🇵 D21 日本宽频 [2]", server: shark.douyucdn.cn.o468e691.ksyungslb.com.douyinvod.click, port: 39114, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇯🇵 D21 日本星链 [5]", server: shark.douyucdn.cn.o468e691.ksyungslb.com.douyinvod.click, port: 39192, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇸🇬 D30 新加坡, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39429, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇸🇬 D31 新加坡, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39413, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇸🇬 D33 新加坡, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39442, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇸🇬 D34 新加坡, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39393, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇺🇸 D40 美国, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39346, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇺🇸 D41 美国, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39367, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇺🇸 D42 美国, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39325, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇺🇸 D43 美国, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39375, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇰🇷 D5 韩国宽频, server: shark.douyucdn.cn.o468e691.ksyungslb.com.douyinvod.click, port: 39808, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇲🇾 D5 马来西亚边缘1, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39342, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇲🇾 D5 马来西亚边缘2, server: shark.douyucdn.cn.o468e629.ksyungslb.com.douyinvod.click, port: 39378, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇮🇱 H6 以色列, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39810, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇷🇺 H6 俄罗斯 [0.5]", server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39149, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇿🇦 H6 南非, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39818, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇱🇺 H6 卢森堡, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39479, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇮🇩 H6 印尼, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39443, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇹🇷 H6 土耳其 [8]", server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39814, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇯🇵 H6 尼日利亚 [8]", server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39850, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇵🇰 H6 巴基斯坦 [10]", server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39822, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇩🇪 H6 德国, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39823, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇲🇩 H6 摩尔多瓦, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39817, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇹🇭 H6 泰国, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39803, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇦🇺 H6 澳大利亚, server: shark.douyucdn.cn.o468e691.ksyungslb.com.douyinvod.click, port: 39412, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇮🇪 H6 爱尔兰, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39472, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇫🇮 H6 芬兰, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39828, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇬🇧 H6 英国 [3]", server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39322, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: 🇳🇱 H6 荷兰, server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39802, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇵🇭 H6 菲律宾 [5]", server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39812, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+  - {name: "🇦🇷 H6 阿根廷 [2]", server: shark.douyucdn.cn.o468e602.ksyungslb.com.douyinvod.click, port: 39813, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 126150:99nytgpe6zl, obfs-param: bilivideo.com, udp: true, tfo: false}
+proxy-groups:
+  - name: 🎯 总模式
+    type: select
+    proxies:
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - DIRECT
+  - name: Ⓜ️ 延迟最低
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 100
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+  - name: Ⓜ️ 故障切换
+    type: fallback
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+  - name: Ⓜ️ 负载均衡
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+  - name: ♻️ 手动切换
+    type: select
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+      - REJECT
+  - name: ♻️ 手动切换1
+    type: select
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+      - DIRECT
+      - REJECT
+  - name: ♻️ 手动切换2
+    type: select
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+      - DIRECT
+      - REJECT
+  - name: ♻️ 手动切换3
+    type: select
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+      - DIRECT
+      - REJECT
+  - name: ♻️ 手动切换4
+    type: select
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+      - DIRECT
+      - REJECT
+  - name: ♻️ 手动切换5
+    type: select
+    proxies:
+      - 🇭🇰 D00 香港宽频1
+      - 🇭🇰 D00 香港宽频2
+      - 🇭🇰 D00 香港宽频3
+      - 🇭🇰 D01 香港边缘1
+      - 🇭🇰 D01 香港边缘2
+      - 🇭🇰 D01 香港边缘3
+      - 🇭🇰 D01 香港边缘4
+      - 🇨🇳 D10 台湾
+      - 🇨🇳 D11 台湾
+      - 🇨🇳 D12 台湾
+      - 🇨🇳 D13 台湾
+      - 🇨🇳 D14 台湾
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D20 日本边缘1
+      - 🇯🇵 D20 日本边缘2
+      - 🇯🇵 D21 日本宽频 [2]
+      - 🇯🇵 D21 日本星链 [5]
+      - 🇸🇬 D30 新加坡
+      - 🇸🇬 D31 新加坡
+      - 🇸🇬 D33 新加坡
+      - 🇸🇬 D34 新加坡
+      - 🇺🇸 D40 美国
+      - 🇺🇸 D41 美国
+      - 🇺🇸 D42 美国
+      - 🇺🇸 D43 美国
+      - 🇰🇷 D5 韩国宽频
+      - 🇲🇾 D5 马来西亚边缘1
+      - 🇲🇾 D5 马来西亚边缘2
+      - 🇮🇱 H6 以色列
+      - 🇷🇺 H6 俄罗斯 [0.5]
+      - 🇿🇦 H6 南非
+      - 🇱🇺 H6 卢森堡
+      - 🇮🇩 H6 印尼
+      - 🇹🇷 H6 土耳其 [8]
+      - 🇯🇵 H6 尼日利亚 [8]
+      - 🇵🇰 H6 巴基斯坦 [10]
+      - 🇩🇪 H6 德国
+      - 🇲🇩 H6 摩尔多瓦
+      - 🇹🇭 H6 泰国
+      - 🇦🇺 H6 澳大利亚
+      - 🇮🇪 H6 爱尔兰
+      - 🇫🇮 H6 芬兰
+      - 🇬🇧 H6 英国 [3]
+      - 🇳🇱 H6 荷兰
+      - 🇵🇭 H6 菲律宾 [5]
+      - 🇦🇷 H6 阿根廷 [2]
+      - DIRECT
+      - REJECT
+  - name: 📬 国外dns
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+  - name: 🧩 微软服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+  - name: 📲 聊天软件
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🤖 OpenAI
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 📹 YouTube
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🎥 NETFLIX
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🔍 谷歌服务
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🎮 游戏平台
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: ⛩ 日韩媒体
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🌍 国外媒体
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🌏 港台媒体
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🇺🇳 国外网站
+    type: select
+    proxies:
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+      - DIRECT
+  - name: 🇨🇳 国内网站
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - Ⓜ️ 负载均衡
+      - Ⓜ️ 延迟最低
+      - Ⓜ️ 故障切换
+      - ♻️ 手动切换
+      - ♻️ 手动切换1
+      - ♻️ 手动切换2
+      - ♻️ 手动切换3
+      - ♻️ 手动切换4
+      - ♻️ 手动切换5
+  - name: 🛑 广告拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+      - PASS
+  - name: ⛔ 应用净化
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+      - PASS
